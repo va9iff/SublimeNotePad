@@ -1,0 +1,14 @@
+[
+	{
+		"caption": "New NotePad",
+		"command": "note_pad_new"
+	},
+	{
+		"caption": "Make NotePad",
+		"command": "note_pad_make"
+	},
+	{
+		"caption": "Revert NotePad",
+		"command": "note_pad_revert"
+	}
+]
